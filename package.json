@@ -1,0 +1,28 @@
+{
+  "name": "go-jira",
+  "version": "1.0.0",
+  "description": "Simple to use tool for retreiving and iterating over JIRA issues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddiemoya/go-jira.git"
+  },
+  "keywords": [
+    "JIRA",
+    "nodejs",
+    "module",
+    "atlassian"
+  ],
+  "author": "Eddie Moya <eddie.moya@gmail.com> (http://eddiemoya.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddiemoya/go-jira/issues"
+  },
+  "homepage": "https://github.com/eddiemoya/go-jira",
+  "dependencies": {
+    "request": "^2.51.0"
+  }
+}
